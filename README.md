@@ -16,4 +16,4 @@ Abra o Android Studio e importe o projeto.
 Conecte um dispositivo ou use um emulador.
 Execute o aplicativo.
 Contato
-Para mais informações, entre em contato pelo e-mail: seu-email@example.com.
+Para mais informações, entre em contato pelo e-mail: falecompaulo10@gmail.com.
