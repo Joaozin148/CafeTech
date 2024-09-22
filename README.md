@@ -21,14 +21,5 @@ CafeTech é um aplicativo de cafeteria desenvolvido no Android Studio utilizando
    ```bash
    git clone https://github.com/seu-usuario/CafeTech.git
 
-### Instruções para colocar no GitHub:
-
-1. Abra o seu repositório no GitHub.
-2. Clique no arquivo `README.md`.
-3. Clique no ícone de lápis para editar o arquivo.
-4. Apague o conteúdo atual (se houver) e cole o código acima.
-5. Clique em "Commit changes" para salvar.
-
-
 ## Contato:
 Para mais informações, entre em contato pelo e-mail: falecompaulo10@gmail.com
